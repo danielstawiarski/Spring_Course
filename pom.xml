@@ -10,7 +10,8 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>koty-domain</module>
-		<module>koty-application</module>
+		
 		<module>koty-webapp</module>
+		<module>koty-database</module>
 	</modules>
 </project>

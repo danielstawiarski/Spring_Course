@@ -11,7 +11,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>pl.kobietydokodu</groupId>
-			<artifactId>koty-application</artifactId>
+			<artifactId>koty-database</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
